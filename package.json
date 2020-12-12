@@ -1,0 +1,15 @@
+{
+  "name": "clone-and-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marco Aurelio C dos Santos <eu@marco.rio.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "log-symbols": "^4.0.0",
+    "ora": "^5.1.0"
+  }
+}
